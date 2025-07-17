@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/keonchennl-mcp-graphdb-badge.png)](https://mseep.ai/app/keonchennl-mcp-graphdb)
+
 # GraphDB MCP Server
 
 A Model Context Protocol server that provides read-only access to Ontotext GraphDB. This server enables LLMs to explore RDF graphs and execute SPARQL queries against a GraphDB instance.
