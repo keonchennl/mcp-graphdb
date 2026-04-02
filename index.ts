@@ -62,7 +62,6 @@ if (!repository) {
 let hasAuth = false;
 if (username && password) {
     hasAuth = true;
-    console.log(`Authentication enabled for user: ${username}`);
 }
 
 // Base URL for resources
